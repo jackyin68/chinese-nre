@@ -1,6 +1,6 @@
-# 欢迎使用 NER-BIO-Generator
+# 欢迎使用 CHINESE-NRE-CORPUS
 
-**NER, bio-format-generator, bio-format-correction**
+**NRE, GRU ...**
 
 ### 项目目标
 
@@ -16,6 +16,3 @@
 ### 重点参考文档和引用代码 [如涉及到版权问题，请不吝告知，谢谢]
 [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese)
 
-
-# chinese-nre
-nre,corpous
