@@ -1,0 +1,16 @@
+动 O
+画 O
+动 O
+物 O
+巴 B-LOC
+士 E-LOC
+角 O
+色 O
+方 B-PER
+方 E-PER
+本 O
+名 O
+汪 B-PER
+芳 E-PER
+女 O
+。 O
